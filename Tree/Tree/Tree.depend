@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1651089495 source:c:\users\shubh\desktop\shubhnode\dst\tree\tree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Queue.h"
+
+1651089511 c:\users\shubh\desktop\shubhnode\dst\tree\tree\queue.h
+
